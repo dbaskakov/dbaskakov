@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Dmitry Baskakov, Devops Engeener focusing on clouds & k8s .
 
-- 🔭 I’m currently working on [Magnit](https://github.com/magnit-tech/magnit-online)
+- 🔭 I’m currently working on [mindbox](https://mindbox.ru/)
 - 📫 How to reach me: [impel1o](http://t.me/impel1o)
 
 IT experience
